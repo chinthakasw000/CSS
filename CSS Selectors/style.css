@@ -1,0 +1,34 @@
+* {
+    margin:100px;
+    padding: 100px;
+}
+
+#paragraph {
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.paragraph {
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h1 {
+    color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.myname {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.myfirstname {
+    color: purple;
+
+}
+
